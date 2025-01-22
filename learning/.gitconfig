@@ -1,6 +1,0 @@
-[user]
-    name = Danny Christl
-    email = danielpremochristl@gmail.com
-
-[credential "https://github.com"]
-    helper = osxkeychain
