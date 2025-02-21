@@ -27,7 +27,8 @@ wheels/
 *.swp
 *.swo
 .DS_Store
-
+.DS_Store?
+**/.DS_Store
 # Virtual Environment
 venv/
 ENV/
