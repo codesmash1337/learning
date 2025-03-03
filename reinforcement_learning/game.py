@@ -1,3 +1,6 @@
+# It's just an x-axis
+# Dominant strategy is pick highest number
+
 class Game:
     def __init__(self, board=0, player=1, winner=None):
         self.board = board
